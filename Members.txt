@@ -1,4 +1,8 @@
+TEAM 33
 
+Audrey Kottek
+
+Judy Zhu
 
 Marco Wimko
  
@@ -7,3 +11,5 @@ Brief introduction
 Role in project: programmer
  
 Preferred branch of engineering: civil
+
+Khadija Idris
