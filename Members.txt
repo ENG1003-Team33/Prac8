@@ -1,6 +1,9 @@
 LIST OF MEMBERS FOR TEAM 33
 
 Audrey Kottek
+brief instruction 
+role in project (team leader)
+preferred branch (software)
  
 Khadija Idris
 
